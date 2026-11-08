@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "judul": "Laskar Pelangi",
+    "genre": "Drama",
+    "tahun": 2008,
+    "rating": 8.0,
+    "sudahDitonton": true
+  },
+  {
+    "id": "2",
+    "judul": "Pengabdi Setan",
+    "genre": "Horor",
+    "tahun": 2017,
+    "rating": 7.6,
+    "sudahDitonton": false
+  },
+  {
+    "id": "3",
+    "judul": "Nanti Kita Cerita Tentang Hari Ini",
+    "genre": "Drama",
+    "tahun": 2020,
+    "rating": 7.5,
+    "sudahDitonton": true
+  },
+  {
+    "id": "4",
+    "judul": "KKN di Desa Penari",
+    "genre": "Horor",
+    "tahun": 2022,
+    "rating": 6.0,
+    "sudahDitonton": false
+  },
+  {
+    "id": "5",
+    "judul": "Agak Laen",
+    "genre": "Komedi",
+    "tahun": 2024,
+    "rating": 8.2,
+    "sudahDitonton": true
+  },
+  {
+    "id": "6",
+    "judul": "Siksa Kubur",
+    "genre": "Horor",
+    "tahun": 2024,
+    "rating": 7.3,
+    "sudahDitonton": false
+  }
+]
